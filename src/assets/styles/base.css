@@ -1,0 +1,33 @@
+/* 用来写一些初始化的样式 */
+
+html{
+    width: 100%;
+    height: 100%;
+  
+}
+body{
+    margin: 0;
+    width: 100%;
+    height: 100%;
+  
+} 
+#app{
+width: 100%;
+height: 100%;
+}
+h1,h2,h3,h4,h5,h6{
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+input{
+    dutline:0;
+    border: 0;
+    border: 1px solid #ccc;
+}
